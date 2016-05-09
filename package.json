@@ -1,0 +1,29 @@
+{
+  "name": "flask-angular-boilerplate",
+  "version": "1.0.0",
+  "description": "Flask and Angularjs boilerplate with Typescript",
+  "main": "app.ts",
+  "dependencies": {
+    "tslint": "^3.7.4",
+    "typescript": "^1.8.10"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-typescript": "^2.13.0",
+    "merge2": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinku/flask-angular-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinku/flask-angular-boilerplate/issues"
+  },
+  "homepage": "https://github.com/cinku/flask-angular-boilerplate#readme"
+}
