@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outFile": "app.js",
+    "declaration": true
+  },
+  "files": [
+    "./typings.d.ts",
+    
+    "static/client/app.ts"
+  ]
+}
