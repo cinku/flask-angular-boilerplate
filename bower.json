@@ -1,0 +1,17 @@
+{
+  "name": "flask-angular-boilerplate",
+  "homepage": "https://github.com/cinku/flask-angular-boilerplate",
+  "authors": [
+    "cinko"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.4",
+    "angular-ui-router": "^0.2.18",
+    "angular-material": "^1.0.7",
+    "jquery": "^2.2.3"
+  },
+  "resolutions": {
+    "angular": "^1.5.4"
+  }
+}
