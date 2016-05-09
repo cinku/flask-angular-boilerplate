@@ -1,4 +1,4 @@
-namespace app.controllers {            
+namespace main.controllers {            
     export class HomeController {
        
         static $inject = ['$scope'];

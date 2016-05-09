@@ -1,7 +1,7 @@
 $((): void =>  {
     let app: angular.IModule = angular.module('app', ['ui.router', 'ngMaterial']);
     
-    app.controller("HomeController", app.controllers.HomeController);
+    app.controller("HomeController", main.controllers.HomeController);
     
     app.config(['$urlRouterProvider', '$stateProvider', ($urlRouterProvider: ng.ui.IUrlRouterProvider,
                                                                 $stateProvider: ng.ui.IStateProvider) => {
