@@ -6,6 +6,8 @@
   "files": [
     "./typings.d.ts",
     
+    "static/app/controllers/homeController.ts",
+    
     "static/app/app.ts"
   ]
 }
