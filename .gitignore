@@ -69,4 +69,4 @@ pip*
 /bower_components/
 /node_modules/
 /static/release/
-/static/scripts/vendor/
+/static/vendor/
