@@ -6,6 +6,6 @@
   "files": [
     "./typings.d.ts",
     
-    "static/client/app.ts"
+    "static/app/app.ts"
   ]
 }

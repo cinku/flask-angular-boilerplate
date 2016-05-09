@@ -1,0 +1,26 @@
+<html>
+
+<head>
+  <title>Flamber</title>
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='vendor/angular-material/angular-material.css' )}}" type="text/css"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='release/app.css' )}}" type="text/css" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+  <script src="{{ url_for('static', filename='vendor/jquery/dist/jquery.js' )}}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='vendor/angular/angular.js' )}}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='vendor/angular-ui-router/release/angular-ui-router.js' )}}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='vendor/angular-aria/angular-aria.js' )}}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='vendor/angular-animate/angular-animate.js' )}}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='vendor/angular-material/angular-material.js' )}}" type="text/javascript"></script>
+
+  <script src="{{ url_for('static', filename='release/app.js' )}}" type="text/javascript"></script>
+</head>
+
+<body>
+  <div ui-view>
+    
+  </div>
+</body>
+
+</html>
